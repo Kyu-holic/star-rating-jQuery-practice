@@ -1,0 +1,8 @@
+fontawesome에 shadow를 주고 싶을 떄는 box-shadow가 아니라 text-shadow를 줘야 함.
+
+jQuery에서 텍스트를 뽑을 때는 .text로 하면 되지만
+태그를 인식하게 하는 메소드는 html
+fontawesome을 사용할 때는 html로 써야 한다.
+
+쌍따옴표 작은따옴표 구분하는 것도 주의할 것
+'<img src="./images/star-lv1.png">'
